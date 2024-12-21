@@ -58,7 +58,7 @@
 	--font:				"gg sans", "Noto Sans";		/* font used in most places														*/
 	--textshadow:			transparent;			/* default: transparent				(textshadow for text ontop of accentcolor nodes, ONLY accepts a color, no px)		*/
 	
-	--background:			url(https://cdn.donmai.us/original/40/d8/__yamada_ryo_bocchi_the_rock_drawn_by_hui_feng__40d819c8600cd9a6b8879d11b5bbab15.jpg);	/* general background image					*/
+	--background:			url(https://cdn.donmai.us/original/94/52/__gotoh_hitori_and_ijichi_nijika_bocchi_the_rock_drawn_by_myvia_mokols__94522f1a5cb2675c5d18b97d37d0f1c8.png);	/* general background image					*/
 	--backgroundposition:		center;				/* default: center				(position of background - values: [center/top/right/bottom/left])			*/
 	--backgroundsize:		cover;				/* default: cover				(sizefit of background - values: [cover/contain/auto])					*/
 	--backgroundblur:		0;				/* default: 0					(blur in px, only works when --background is set to an image)				*/
