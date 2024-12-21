@@ -58,7 +58,7 @@
 	--font:				"gg sans", "Noto Sans";		/* font used in most places														*/
 	--textshadow:			transparent;			/* default: transparent				(textshadow for text ontop of accentcolor nodes, ONLY accepts a color, no px)		*/
 	
-	--background:			url(https://perdub-team.github.io/BasicBackgroundDiscord/vencord_theme_bocchi-ezgif.com-optimize.gif);	/* general background image					*/
+	--background:			url(https://cdn.donmai.us/original/c2/cf/__gotoh_hitori_kita_ikuyo_ijichi_nijika_and_yamada_ryo_bocchi_the_rock_drawn_by_bangeningmeng__c2cf3c4ee98ddbe30b9a717be92cb37c.jpg);	/* general background image					*/
 	--backgroundposition:		center;				/* default: center				(position of background - values: [center/top/right/bottom/left])			*/
 	--backgroundsize:		cover;				/* default: cover				(sizefit of background - values: [cover/contain/auto])					*/
 	--backgroundblur:		0;				/* default: 0					(blur in px, only works when --background is set to an image)				*/
